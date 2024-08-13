@@ -1,0 +1,27 @@
+.div {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.heading {
+  margin-bottom: 1rem;
+  background-color: rgb(196, 157, 157);
+}
+
+.text {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  margin: 0 1rem;
+  min-width: 22rem;
+  background-color: rgb(196, 157, 157);
+}
+
+.container {
+  background-color: rgb(196, 157, 157);
+  padding: 1rem;
+  border-radius: 2rem;
+}

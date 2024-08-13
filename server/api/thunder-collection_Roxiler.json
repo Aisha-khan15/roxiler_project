@@ -1,0 +1,87 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Roxiler",
+    "collectionId": "12c8f25b-4ff6-423b-a0a7-52d749edcd36",
+    "dateExported": "2024-07-09T15:38:26.827Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "5e9c7c4e-4695-40b3-97f4-316787eeb641",
+            "colId": "12c8f25b-4ff6-423b-a0a7-52d749edcd36",
+            "containerId": "",
+            "name": "Bar Chart",
+            "url": "http://localhost:5000/api/v1/bar?month=2022-06",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-07-09T15:37:06.315Z",
+            "modified": "2024-07-09T15:37:06.315Z",
+            "headers": [],
+            "params": [
+                {
+                    "name": "month",
+                    "value": "2022-06",
+                    "isPath": false
+                }
+            ]
+        },
+        {
+            "_id": "a4a6fc82-25c2-4a05-ad68-039c24af0d7a",
+            "colId": "12c8f25b-4ff6-423b-a0a7-52d749edcd36",
+            "containerId": "",
+            "name": "Pie Chart",
+            "url": "http://localhost:5000/api/v1/pie?month=2022-06",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-07-09T15:37:21.003Z",
+            "modified": "2024-07-09T15:37:21.003Z",
+            "headers": [],
+            "params": [
+                {
+                    "name": "month",
+                    "value": "2022-06",
+                    "isPath": false
+                }
+            ]
+        },
+        {
+            "_id": "84ed55d4-974d-4b47-ae27-61c5e50e1255",
+            "colId": "12c8f25b-4ff6-423b-a0a7-52d749edcd36",
+            "containerId": "",
+            "name": "Statistics",
+            "url": "http://localhost:5000/api/v1/statistics?month=2022-06",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-07-09T15:37:34.477Z",
+            "modified": "2024-07-09T15:37:34.477Z",
+            "headers": [],
+            "params": [
+                {
+                    "name": "month",
+                    "value": "2022-06",
+                    "isPath": false
+                }
+            ]
+        },
+        {
+            "_id": "fb193965-d245-44b7-a1f9-4d4696187d26",
+            "colId": "12c8f25b-4ff6-423b-a0a7-52d749edcd36",
+            "containerId": "",
+            "name": "Transactions",
+            "url": "http://localhost:5000/api/v1/transactions?month=2022-06",
+            "method": "GET",
+            "sortNum": 40000,
+            "created": "2024-07-09T15:37:53.829Z",
+            "modified": "2024-07-09T15:37:53.829Z",
+            "headers": [],
+            "params": [
+                {
+                    "name": "month",
+                    "value": "2022-06",
+                    "isPath": false
+                }
+            ]
+        }
+    ],
+    "ref": "FHtPTfFaKUBwNxnAmdDzN3L0NUb6a2u3Lw3X3IhojwF8HyJdfBTiVbrlIhQVwLKhaajZiygODMQajxwsfLVWGg"
+}
